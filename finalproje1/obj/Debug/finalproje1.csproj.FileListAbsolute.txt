@@ -1,0 +1,30 @@
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\bin\Debug\finalproje1.exe.config
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\bin\Debug\finalproje1.exe
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\bin\Debug\finalproje1.pdb
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.AssemblyReference.cache
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.FormAna.resources
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.Properties.Resources.resources
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.GenerateResource.cache
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.CoreCompileInputs.cache
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.exe
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.pdb
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.FormCalisan.resources
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.FormMusteri.resources
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.FormYonetici.resources
+C:\Users\Derya Telli\source\repos\finalproje1\finalproje1\obj\Debug\finalproje1.FormKullaniciGiris.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\bin\Debug\finalproje1.exe.config
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\bin\Debug\finalproje1.exe
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\bin\Debug\finalproje1.pdb
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.AssemblyReference.cache
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.FormAna.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.FormCalisan.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.FormMusteri.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.FormYonetici.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.FormKullaniciGiris.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.Properties.Resources.resources
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.GenerateResource.cache
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.csproj.CoreCompileInputs.cache
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.exe
+C:\Users\dera\OneDrive\Belgeler\my visual cod\finalproje1\finalproje1\obj\Debug\finalproje1.pdb
